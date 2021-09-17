@@ -1,0 +1,159 @@
+*
+{
+    margin: 0;
+padding: 0;
+box-sizing: border-box;
+color:white;
+font-family: "poppins", sans-serif ;
+}
+.violet
+{
+    background-color: #29004c;
+}
+.white
+{
+    
+    font-weight: 50;
+    text-align:center;
+    padding-top: 25px;
+}
+.violet h1 
+{
+    color:red;
+    text-align: center;
+}
+.violet h5
+{
+    text-align: center;
+}
+.img
+{
+    position: absolute; top:200px;left: 400px;
+}
+.float
+{
+    position: relative; left: 740px;
+    font-size: 15px;
+    font-stretch: extra-expanded;
+}
+.round
+{
+    position: relative; left: 740px;
+        border-radius: 11px/11px;
+        background: #f6f4f4;
+        padding: 20px; 
+        width: 320px;
+        height: 45px; 
+        margin-bottom: 7px;
+        color:rgba(115, 122, 113, 0.986);
+        font-stretch: wider;
+     
+}
+.round1
+{
+    position: relative; left: 740px;
+        border-radius: 11px/11px;
+        background: #89B861;
+        padding: 10px; 
+        width: 320px;
+        height: 45px; 
+        margin-bottom: 7px;
+        color: black;
+        text-align: center;
+        font-weight: 600;
+        
+        
+        
+}
+.line1
+{
+    text-align: center;
+    margin-top: 25px;
+    font-size: 20px;
+}
+.line1 span
+{
+    font-size: 30px;
+    color: red;
+    font-weight: 700;
+}
+.line2
+{
+    text-align: center;
+    margin-top: 2px;
+    font-size: 20px;
+}
+.line3
+{
+    text-align: center;
+    padding-top: 6px;
+    font-size: 20px;
+
+}
+.line3 span 
+{
+    font-size: 30px;
+    color: red;
+    font-weight: 700; 
+}
+.line4
+{
+    text-align: center;
+    margin-top: 1px;
+    font-size: 20px;
+}
+.roundg
+{
+    position: relative; left: 500px;
+    border-radius: 11px/11px;
+    background: #89B861;
+    padding: 10px; 
+    width: 400px;
+    height: 60px; 
+    margin-bottom: 7px;
+    color: black;
+    text-align: center;
+    font-weight: 600;  
+}
+.final 
+{
+    text-align: center;
+    margin-top: 25px;
+    font-weight: 600;
+    font-size: 30px;
+}
+.final span 
+{
+    color: red;
+    text-shadow: whitesmoke;
+    font-size: 55px;
+}
+.orange
+{
+    background-color: #FF7638;
+    margin-top:-10px ;
+    padding-top: 50px;
+}
+.orange h6
+{
+    text-align: center;
+    color: black;
+    font-size: 20px;
+
+}
+.orange h6 span
+{ 
+    font-size: 40px;
+    font-weight: 700;
+    color: black;
+}
+.ddd
+{
+    justify-content: center; left: 500px;
+    font-size: 15px;
+    color: black;
+    font-weight: 1500;
+    position: relative;
+    margin-top: 10px;
+    padding-bottom: 20px;
+}
